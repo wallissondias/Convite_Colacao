@@ -126,10 +126,37 @@ const GUESTS = {
       "Tenho um carinho enorme por vc e sei que vamos ser profissionais incríveis. Pode contar comigo sempre, assim como eu contei com vc ao longo de todo esse tempo. 💙"
   },
     
+    layslla: {
+    name: "Layslla",
+    password: "acabou",
+    message:
+      "amgg, se não fosse vc, eu tenho certeza que eu não teria conseguido chegar até aqui. Vc foi minha parceira de verdade, a gente morava longe igual, sentia na pele o perrengue da distância, e superou isso junto. Eu nunca vou esquecer daquele dia que tivemos que sair correndo, tomando banho de chuva… foi difícil, mas a gente sobreviveu kkkkk.\n\n" +
+      "Vc me motivou de tantas formas, até a buscar o inglês. Te ver se esforçando, mesmo passando pelos mesmos desafios que eu, me fez acreditar que era possível. Se eu não tivesse alguém na mesma situação que eu (entre aspas, né kkk), acho que eu teria desistido por causa da distância.\n\n" +
+      "Além disso, a gente fez muitos trabalhos juntos e sempre arrasou. Foram anos de parceria, apoio e amizade que me marcaram demais. E agora, a gente se forma junto, prontos pra ser profissionais incríveis. 💙\n\n" +
+      "Saiba que, assim como vc esteve do meu lado, pode contar comigo pra tudo. Sempre!!"
+  },
+
+    francine: {
+    name: "Francine",
+    password: "acabou",
+    message:
+      "Fran, eu sei que vc não vai conseguir estar aqui no dia, mas mesmo assim eu precisava deixar registrado o quanto vc foi importante pra eu chegar até aqui. Teve um momento em que eu quase desisti de tudo, e foi vc quem colocou juízo na minha cabeça e me fez enxergar que valia a pena continuar.\n\n" +
+      "Essa vitória também é sua, pq se não fosse por aquela conversa e pelo apoio que vc sempre me deu, eu não estaria vivendo isso agora. Mesmo de longe, vc faz parte dessa conquista, e eu sou muito grato por ter vc na minha vida. 💙"
+  },
+
+    ingrid: {
+    name: "Ingrid",
+    password: "ingles",
+    message:
+      "Ingrid, eu sei que vc tá lá em Joinville e não vai conseguir vir, mas eu precisava deixar registrado o quanto vc foi peça fundamental pra eu concluir a faculdade. Finalmente veio aí! 🎓\n\n" +
+      "Vc entrou na minha vida como professora de inglês e acabou virando amiga. Seus conselhos foram essenciais pra eu continuar, e vc sabe bem disso, sabe detalhes da minha vida que acho que nem a psicóloga sabe kkkkk. Teve momentos em que eu quase tranquei tudo, e foi graças a vc que eu não fiz isso.\n\n" +
+      "Então obrigado pelos conselhos, pois sem eles talvez eu não tivesse chegado até aqui. Obrigado por tudo, de coração. 💙"
+  },
+  
 };
 
 // ====== CONFIG: WhatsApp ======
-const WHATSAPP_NUMBER = "5577998343145"; // 👈 TROQUE PELO SEU NÚMERO (ex: 5588999999999)
+const WHATSAPP_NUMBER = "5577998343145"; // 
 
 // ========== Page switch ==========
 const PAGE = document.body.dataset.page;
